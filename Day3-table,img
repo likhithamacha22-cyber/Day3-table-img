@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Student Academic Details</title>
+    </head>
+    <body>
+        <h1>Student Academic Details</h1>
+        <img src="img1.jpeg" alt="" width="150">
+        <p><b>Name:</b>Likhitha Macha</p>
+        <table border="1">
+            <tr>
+                <th>Qualification</th>
+                <th>Institute</th>
+                <th>Year</th>
+                <th>Percentage</th>
+            </tr>
+            <tr>
+                <td>Bacholor of Technology</td>
+                <td>GNITS</td>
+                <td>2025-2029</td>
+                <td>pursuing</td>
+            </tr>
+            <tr>
+                <td>Intermediate</td>
+                <td>SR Junior college</td>
+                <td>2023-2025</td>
+                <td>98.6%</td>
+            </tr>
+            <tr>
+                <td>10th standard</td>
+                <td>ZPS School</td>
+                <td>2022-2023</td>
+                <td>97%</td>
+            </tr>
+
+        </table>
+    </body>
+</html>
