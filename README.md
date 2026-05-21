@@ -1,1 +1,101 @@
 # Day3-table-img
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Student Marks List</title>
+</head>
+
+<body>
+
+    <h1>Student Marks List</h1>
+
+    <!-- School Photo -->
+    <img src="school.jpg" alt="School Photo" width="400">
+
+    <br><br>
+
+    <table border="1">
+
+        <tr>
+            <th>S.No</th>
+            <th>Student Name</th>
+            <th>Telugu</th>
+            <th>Hindi</th>
+            <th>English</th>
+            <th>Maths</th>
+            <th>Science</th>
+            <th>Social</th>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>Likhitha</td>
+            <td>95</td>
+            <td>90</td>
+            <td>92</td>
+            <td>98</td>
+            <td>94</td>
+            <td>91</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Ramya</td>
+            <td>88</td>
+            <td>84</td>
+            <td>86</td>
+            <td>90</td>
+            <td>85</td>
+            <td>87</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Uma</td>
+            <td>91</td>
+            <td>89</td>
+            <td>94</td>
+            <td>96</td>
+            <td>90</td>
+            <td>88</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Keerthi</td>
+            <td>80</td>
+            <td>78</td>
+            <td>82</td>
+            <td>85</td>
+            <td>81</td>
+            <td>79</td>
+        </tr>
+
+        <tr>
+            <td>5</td>
+            <td>Neha</td>
+            <td>89</td>
+            <td>92</td>
+            <td>90</td>
+            <td>95</td>
+            <td>88</td>
+            <td>93</td>
+        </tr>
+
+        <tr>
+            <td>6</td>
+            <td>Sravani</td>
+            <td>84</td>
+            <td>80</td>
+            <td>85</td>
+            <td>87</td>
+            <td>83</td>
+            <td>82</td>
+        </tr>
+
+    </table>
+
+</body>
+
+</html>
